@@ -38,7 +38,7 @@ nums.mean
 # 20 / 4 = 5
 ```
 
-Make sure you round each mean to the nearest hundredth decimal place. If you would like help rounding, take a look at `#round` [here](http://ruby-doc.org/core-1.9.3/Float.html#method-i-round)
+Make sure you round each mean to the nearest hundredth decimal place. If you would like help rounding, take a look at `#round` [here](http://ruby-doc.org/core-1.9.3/Float.html#method-i-round).
 
 ## Median
 
