@@ -41,7 +41,7 @@ describe "Statistics" do
   end
 
   describe "#mode" do
-    it "finds the mode for a series of nine numbers" do
+    it "finds the mode for a series of ten numbers" do
       beginner = [1, 2, 3, 4, 5, 6, 7, 8, 9, 8]
       expect(beginner.mode).to eq(8)
     end
