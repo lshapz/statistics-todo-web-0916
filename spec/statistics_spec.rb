@@ -28,6 +28,7 @@ describe "Statistics" do
     end
 
     it "finds the median for a series of eleven numbers" do
+      intermediate = [17, 20, 32, 6, 35, 23, 7, 3, 27, 34, 17]
       expect(intermediate.median).to eq(20)
     end
 
