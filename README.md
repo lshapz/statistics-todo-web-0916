@@ -1,8 +1,4 @@
----
-tags: math, cs, logic, monkey patching, todo
-languages: ruby
-resources: 3
----
+
 
 # Statistics
 
