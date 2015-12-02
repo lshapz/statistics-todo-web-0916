@@ -78,3 +78,5 @@ Your code will go in `lib/statistics.rb`. Remember, you will be [monkey patching
 * [Khan Academy: Mean, Median, and Mode](https://youtu.be/k3aKKasOmIw)
 * [Mean, Median, and Mode](http://math.about.com/od/statistics/a/MeanMedian.htm)
 * [Monkey Patching](http://www.runtime-era.com/2012/12/reopen-and-modify-ruby-classes-monkey.html)
+
+<a href='https://learn.co/lessons/statistics-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
